@@ -1,5 +1,5 @@
 const OWNER = 'tanuct05-bot';
-const REPO = 'moccnc';
+const REPO = 'hoangmoc_decor';
 
 function headers() {
   return { Authorization: 'Bearer ' + process.env.CATALOG_GH_TOKEN, Accept: 'application/vnd.github+json' };

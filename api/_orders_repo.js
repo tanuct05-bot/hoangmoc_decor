@@ -1,5 +1,5 @@
 const OWNER = 'tanuct05-bot';
-const REPO = 'moccnc-orders';
+const REPO = 'hoangmoc_decor-orders';
 const PATH = 'orders.json';
 
 function headers() {
